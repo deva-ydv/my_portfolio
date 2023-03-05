@@ -13,7 +13,7 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold
                 text-white'>I'am a Frontend Developer</h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                Who really loves to play with frontend techonologies like HTML, CSS, JavaScript, React and much more..
+                Who really loves to play with frontend technologies like HTML, CSS, JavaScript, React and much more..
                 </p>
                 <div>
                     <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2
