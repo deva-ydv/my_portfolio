@@ -13,10 +13,7 @@ const About = () => {
                 </div>
                 <p className='text-xl mt-12'><li>Bachelor of Science B.Sc, Information Technology (IT).</li> <br />
                 <li><span>College:-</span> D.T.S.S. College Of Commerce, (malad) Mumbai 2020-2023.</li> <br />
-                <li>Currenty, it's my last year of graduation (3rd year)</li>
-
-                
-
+                <li>Currently, it's my last year of graduation (3rd year)</li>
                 </p>
             </div>
         </div>
